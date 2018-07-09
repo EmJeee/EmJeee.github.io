@@ -73,6 +73,7 @@ p{
 }
 
 .split {
+     background-color: #ffbf00;
     height: 600px;
     width: 50%;
     position: absolute;
